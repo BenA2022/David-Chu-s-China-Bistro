@@ -337,6 +337,11 @@ h3.menu-item-title {
 		height: 100px;
 		margin: 5px 5px 5px 0px;
 	}
+
+	.navbar-brand h1 {
+		font-size: 1.3em;
+	}
+
 	/* END HEADER */
 
 	/* HOME PAGE */
